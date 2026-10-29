@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,4 +21,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0009-palindrome-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
