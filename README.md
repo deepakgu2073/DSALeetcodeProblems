@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1929-concatenation-of-array](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
