@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0036-valid-sudoku/) | Medium |
 | [0088-merge-sorted-array](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0036-valid-sudoku/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Prefix Sum
@@ -59,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
