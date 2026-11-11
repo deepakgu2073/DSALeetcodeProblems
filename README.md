@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0011-container-with-most-water/) | Medium |
 | [0036-valid-sudoku](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0036-valid-sudoku/) | Medium |
 | [0088-merge-sorted-array](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Sorting
@@ -71,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/deepakgu2073/DSALeetcodeProblems/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
